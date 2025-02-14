@@ -1,6 +1,28 @@
 {
   "dependencies": {
     "discord.js": "^14.18.0",
-    "dotenv": "^16.4.7"
-  }
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "ollama": "^0.5.13",
+    "readline": "^1.3.0"
+  },
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanskriti2005/discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanskriti2005/discord-bot/issues"
+  },
+  "homepage": "https://github.com/sanskriti2005/discord-bot#readme",
+  "description": ""
 }
